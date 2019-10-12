@@ -1,0 +1,50 @@
+Advanced Security 1 –DT211-4, DT282-4and DT228-4Lab Sheet 2 (6Mark)
+
+
+1.The following information was encrypted using Caesar Cipher. Decrypt it.
+
+one  variation  to  the  standard  caesar  cipher  is  when the    alphabet
+is    keyed    by    using    a    word.    in    the traditional  variety,
+one  could  write  the  alphabet  on two  strips  and  just  match  up  the
+strips  after  sliding the  bottom  strip  tothe  left  or  right.  to  encode,
+you would  find  a  letter  in  the  top  row  and  substitute  it for  the
+letter  in  the  bottom  row.  for  a  keyed  version, one would not use a
+standard alphabet, but would first write  a  word  (omitting  duplicated  letters)
+and  then write the  remaining  letters  of  the  alphabet.  for  the example below,
+i used a key of rumkin.com and you will see that the period is removed because
+it is not a letter. you   will   also   notice   the   second   m   is   not
+included because   there   was   an   m   already   and   you   can't   have duplicates.
+
+2.Find the key which was used to encrypt this messageusing Caesar Cipher.
+17
+
+3.The following message has been encrypted using Vinegeré Cipher with a keyword KISWAHILI. Decrypt the message.
+
+NIST  IS  ABOUT  TO  ANNOUNCE  THE  NEW  HASH  ALGORITHM  THAT  WILL BECOME SHA-3.
+THIS IS THE RESULT OF A SIX-YEAR COMPETITION, AND MY  OWN  SKEIN  IS  ONE  OF  THE
+FIVE  REMAINING  FINALISTS  (OUT  OF AN INITIAL 64). IT'S PROBABLY TOO LATE FOR ME
+TO AFFECT THE FINAL DECISION, BUT I AM HOPING FOR "NO AWARD." IT'S NOT THAT THE NEWHASH
+FUNCTIONS AREN'T ANY GOOD, IT'S THAT WE DON'T REALLY NEED ONE. WHEN WE STARTED
+THIS PROCESS BACK IN 2006, IT LOOKED AS IF WE   WOULD   BE   NEEDING   A   NEW
+HASH   FUNCTION   SOON.   THE   SHA FAMILY  (WHICH  IS  REALLY  PART  OF  THE
+MD4  AND  MD5  FAMILY),  WAS UNDER INCREASING PRESSURE FROM NEW TYPES OF CRYPTANALYSIS.
+WE   DIDN'T   KNOW   HOW   LONG   THE   VARIOUS   SHA-2 VARIANTS  WOULD  REMAIN
+SECURE.  BUT  IT'S  2012,  AND  SHA-512  IS  STILL LOOKING GOOD.EVEN  WORSE,
+NONE  OF  THE  SHA-3  CANDIDATES  IS  SIGNIFICANTLY BETTER.  SOME  ARE  FASTER,
+BUT NOT  ORDERS  OF  MAGNITUDE  FASTER. SOME  ARE  SMALLER  IN  HARDWARE,
+BUT  NOT  ORDERS  OF  MAGNITUDE SMALLER.  WHEN  SHA-3  IS  ANNOUNCED,  I'M  GOING
+TO  RECOMMEND THAT,    UNLESS    THE    IMPROVEMENTS    ARE    CRITICAL    TO
+THEIR APPLICATION, PEOPLE STICK WITH THE TRIED AND TRUE SHA-512.ATLEAST  FOR  A
+WHILE.  I  DON'T  THINK  NIST  IS  GOING  TO  ANNOUNCE "NO  AWARD";  I  THINK
+IT'S  GOING  TO  PICK  ONE.  AND  OF  THE  FIVE REMAINING,  I  DON'T  REALLY  HAVE
+A  FAVORITE.  OF  COURSE  I  WANT SKEIN  TO  WIN,  BUT  THAT'S  OUT  OF  PERSONAL
+PRIDE,  NOT  FOR  SOME OBJECTIVE  REASON.  AND  WHILE  I  LIKE  SOME  MORE  THAN
+OTHERS,  I THINK  ANY  WOULD  BE  OKAY.  WELL,  MAYBE  THERE'S  ONE  REASON  NIST
+SHOULD  CHOOSE  SKEIN.  SKEIN  ISN'T  JUST  A  HASH  FUNCTION,  IT'S THE
+LARGE-BLOCK  CIPHER  THREEFISH  AND  A  MECHANISM  TO  TURN  IT INTO  A  HASH
+FUNCTION.  I  THINK  THE  WORLD  ACTUALLY  NEEDS  A LARGE-BLOCK CIPHER,
+AND IF NIST CHOOSES SKEIN, WE'LL GET ONE
+
+4.Guess the encryption algorithms used and decryptthe information below.
+5.Guess the encryption algorithm used and decryptsthe information below.
+6.The text below was encrypted using Caesar Cipher. Decrypt and give the language of the text.
